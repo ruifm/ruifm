@@ -16,6 +16,7 @@ I bridge the gap between high-level code and bare-metal performance. Currently a
 *   **Compiler Infrastructure:** Contributor to **LLVM** (Clang/Flang) and **Bear**.
 *   **Performance:** Achieved **100x speedups** (3 → 300 FPS) in embedded computer vision pipelines.
 *   **Tooling:** Creator of [gitlinker.nvim](https://github.com/ruifm/gitlinker.nvim), a Neovim plugin for generating permalinks (600+ ⭐).
+*   Founder and creator of [fiscalpt.com](https://fiscalpt.com)
 
 #### 📫 Contact
 *   [ruimarques.xyz](https://ruimarques.xyz)
