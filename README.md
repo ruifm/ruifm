@@ -1,24 +1,23 @@
-### Hi there 👋 I'm Rui Marques
+# Rui Marques
 
-**Senior C++ Compiler Engineer** specializing in **LLVM**, **Static Analysis**, and **AI Hardware Optimization**.
+I am an Engineering Manager at [Canonical](https://canonical.com), working in Ubuntu Foundations. My background is in compiler engineering, static analysis, and performance-critical C++.
 
-I bridge the gap between high-level code and bare-metal performance. Currently architecting compiler tooling at [Codee](https://www.codee.com) to help supercomputers run faster and safer.
+## Work
 
----
+* Contributor to [LLVM](https://github.com/llvm/llvm-project) (Clang and Flang) and [Bear](https://github.com/rizsotto/Bear)
+* Creator of [gitlinker.nvim](https://github.com/ruifm/gitlinker.nvim), a Neovim plugin for generating file permalinks
+* Founder of [fiscalpt.com](https://fiscalpt.com), an open-source Portuguese tax calculator
+* Improved an embedded computer vision pipeline from 3 to 300 FPS
 
-#### 🔧 Technologies & Tools
-*   **Languages:** C++ (Expert), C, Rust, Python, Lua, Fortran
-*   **Compiler Stack:** LLVM, Clang, MLIR, TableGen
-*   **Build Systems:** CMake, Make, Just
-*   **Dev Environment:** Neovim, Tmux, Linux (Arch), Docker
+## Tools
 
-#### 🚀 Key Work
-*   **Compiler Infrastructure:** Contributor to **LLVM** (Clang/Flang) and **Bear**.
-*   **Performance:** Achieved **100x speedups** (3 → 300 FPS) in embedded computer vision pipelines.
-*   **Tooling:** Creator of [gitlinker.nvim](https://github.com/ruifm/gitlinker.nvim), a Neovim plugin for generating permalinks (600+ ⭐).
-*   Founder and creator of [fiscalpt.com](https://fiscalpt.com)
+* **Languages:** C++, C, Rust, Python, Lua, Fortran
+* **Compilers:** LLVM, Clang, MLIR, Flang
+* **Build and CI:** CMake, Nix, Just, Docker, GitHub Actions
+* **Environment:** Linux, Neovim, Tmux
 
-#### 📫 Contact
-*   [ruimarques.xyz](https://ruimarques.xyz)
-*   [linkedin.com/in/ruiferreiramarques](https://www.linkedin.com/in/ruiferreiramarques)
-*   [rui@ruimarques.xyz](mailto:rui@ruimarques.xyz)
+## Contact
+
+* [ruimarques.xyz](https://ruimarques.xyz)
+* [linkedin.com/in/ruiferreiramarques](https://www.linkedin.com/in/ruiferreiramarques)
+* [rui@ruimarques.xyz](mailto:rui@ruimarques.xyz)
